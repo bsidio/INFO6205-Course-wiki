@@ -44,3 +44,27 @@ while there exist a free man m who still has a woman w to propose to
         
 
 
+### The Stable Marriage Problem (Gale-Shapley Algorithm)
+
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=A7xRZQAQU8s"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+
+### Stable Marriage Problem - Numberphile
+
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/Qcv1IqHWAzg"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
